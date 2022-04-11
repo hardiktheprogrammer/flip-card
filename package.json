@@ -1,0 +1,19 @@
+{
+  "name": "flip-card-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardiktheprogrammer/flip-card-bio-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hardiktheprogrammer/flip-card-bio-/issues"
+  },
+  "homepage": "https://github.com/hardiktheprogrammer/flip-card-bio-#readme"
+}
